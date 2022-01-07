@@ -5,9 +5,12 @@
   - discord.js
   - axios
 
+- requirements
+  - Node.js 16.6.0 or newer is required. (Discord.js)
+
 - Comands
   - ```npm install``` (Instala todos os pacotes utilizados)
-  - ```npm init -y``` (Configura o package.json com a propriedades padrões)
+  - ```npm init -y``` (Configura o package.json com as propriedades padrões)
  
 #### Caso queira subir o bot para um servidor, tipo o "Discloud"
 > ```pip freeze > requirements.txt``` (irá armazenar todos os pacotes e módulos da sua aplicação em um arquivo de texto)
